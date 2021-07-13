@@ -1,3 +1,4 @@
+
 var path,boy, leftBoundary,rightBoundary;
 var pathImg,boyImg;
 var i;
@@ -49,4 +50,6 @@ function draw() {
   }
   
   drawSprites();
-}
+};
+
+
